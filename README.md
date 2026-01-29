@@ -70,7 +70,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/funding-rate-monitor.git
+git clone https://github.com/cq375/-VAR-vs-Backpack-funding.git
 cd funding-rate-monitor
 ```
 
